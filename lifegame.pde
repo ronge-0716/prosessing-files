@@ -86,5 +86,7 @@ void cell_engine(){
     }
     
   }
+  
+  cells = swap;
 
 }
