@@ -19,7 +19,7 @@ void draw(){
 class net{
 
   FloatList x,mx,y,my;
-  flost msp,k;
+  float msp,k;
 
   net(){
   
